@@ -8,3 +8,4 @@ for i in myList:
         resultList.append(i)
 
 print(f'resultList: {resultList}')      
+# Git practice
