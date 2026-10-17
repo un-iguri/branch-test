@@ -13,3 +13,4 @@ int main()
 	m = t % 60;
 	printf("%d %d", h, m);
 }
+// Git practice
