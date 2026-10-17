@@ -1,4 +1,7 @@
-*.exe
-*.obj
+\*.exe
+\*.obj
 .vs/
-__pycache__/
+**pycache**/
+
+Git helps track changes in files.
+
